@@ -1,0 +1,12 @@
+/home/rohiths/STraining/STM32/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/usart.c:28:5:__io_putchar	1
+../Src/usart.c:33:6:dma1_init	1
+../Src/usart.c:43:6:dma1_start	1
+../Src/usart.c:48:6:DMA1_Channel1_IRQHandler	2
+../Src/usart.c:63:6:usart_rxtx_interupt_init	1
+../Src/usart.c:110:6:usart_rxtx_init	1
+../Src/usart.c:150:6:usart_tx_init	1
+../Src/usart.c:180:6:usart1_read	2
+../Src/usart.c:189:6:usart1_write	2
+../Src/usart.c:197:13:uart_set_baudrate	1
+../Src/usart.c:201:17:compute_uart_bd	1
