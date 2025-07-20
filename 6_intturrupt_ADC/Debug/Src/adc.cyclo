@@ -1,0 +1,5 @@
+/home/rohiths/STraining/STM32/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/adc.c:14:6:pa0_adc_interrupt_init	1
+../Src/adc.c:43:6:pa0_adc_init	1
+../Src/adc.c:66:6:start_conversion	1
+../Src/adc.c:74:10:adc_read	2
