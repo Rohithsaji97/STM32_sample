@@ -1,0 +1,2 @@
+../Src/acc.c:9:6:acc_init	16	static
+../Src/acc.c:15:6:acc_read	32	static
