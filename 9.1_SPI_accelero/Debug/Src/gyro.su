@@ -1,0 +1,4 @@
+../Src/gyro.c:11:16:GYRO_ReadReg	24	static
+../Src/gyro.c:20:13:GYRO_WriteReg	16	static
+../Src/gyro.c:27:6:GYRO_Init	16	static
+../Src/gyro.c:37:10:GYRO_ReadXYZ	40	static

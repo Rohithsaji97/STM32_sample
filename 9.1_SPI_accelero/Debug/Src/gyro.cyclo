@@ -1,0 +1,4 @@
+../Src/gyro.c:11:16:GYRO_ReadReg	1
+../Src/gyro.c:20:13:GYRO_WriteReg	1
+../Src/gyro.c:27:6:GYRO_Init	2
+../Src/gyro.c:37:10:GYRO_ReadXYZ	2
