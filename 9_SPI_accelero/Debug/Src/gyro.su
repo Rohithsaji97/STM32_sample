@@ -1,0 +1,3 @@
+../Src/gyro.c:62:6:gyro_init	16	static
+../Src/gyro.c:77:6:gyro_read_address	16	static
+../Src/gyro.c:89:6:gyro_read_xyz	32	static
